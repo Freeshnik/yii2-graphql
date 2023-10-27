@@ -17,7 +17,7 @@ Same as for Yii Advanced Template, but
 
 Using [composer](https://getcomposer.org/)
 ```
-composer require Plato-solutions/yii2-graphql
+composer require Freeshnik/yii2-graphql
 ```
 
 ### Enable [Yii JsonParser](https://www.yiiframework.com/doc/api/2.0/yii-web-jsonparser)
