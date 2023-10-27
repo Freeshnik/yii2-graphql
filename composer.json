@@ -6,13 +6,13 @@
     "license": "BSD-3-Clause",
     "authors":[
         {
-            "name":"Plato Analytics",
-            "email":"emmanuel.sarpong@platoanalytics.com"
+            "name":"Freeshnik",
+            "email":"el.sarpong@platoanalytics.com"
         }
     ],
     "minimum-stability":"dev",
     "require":{
-        "php": ">=7.4.0",
+        "php": ">=7.3.0",
         "yiisoft/yii2":"^2.0.",
         "webonyx/graphql-php": "^14.6.2",
         "ecodev/graphql-upload": "^6.1.0",
